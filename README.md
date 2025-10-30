@@ -111,10 +111,23 @@ Built a **Streamlit web application** that:
 - `Screenshots/` — dashboard visuals and results  
 - `screen_recording.mp4` — short demo of dashboard
 
-Demo Video
+---
+
+### Screenshots
+![Spyder IDE Window](resources/screenshot 1.jpg)
+![Survival Function by Risk Group plot](resources/screenshot 2.jpg)
+![cph model summary print](resources/screenshot 3.jpg)
+![Churn by Tenure plot](resources/screenshot 4.jpg)
+![Streamlit dashboard homepage](resources/screenshot 5.jpg)
+![Streamlit dashboard Global Insights](resources/screenshot 6.jpg)
+![Predicted Customer Lifetime on Streamlit dashboard](resources/screenshot 7.jpg)
+
+---
+
+### Demo Video
 
 A short walkthrough of the Streamlit dashboard is available in
-Project Resources/screen_recording.mp4
+Project Resources/screen_recording_streamlit_dash.mp4
 
 ---
 
