@@ -1,8 +1,6 @@
 # customer-churn-survival-analysis
 Customer Churn Survival Analysis using Cox Proportional Hazards model and Kaplan-Meier curves
 
-# Customer Churn Survival Analysis
-
 ## Problem Statement
 Customer churn — when customers stop doing business with a company — is one of the biggest challenges for telecom service providers.  
 Instead of simply predicting whether a customer will churn, this project aims to **estimate how long a customer will stay** (customer lifetime) using **Survival Analysis**.
