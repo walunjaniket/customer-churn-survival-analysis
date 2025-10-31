@@ -114,13 +114,15 @@ Built a **Streamlit web application** that:
 ---
 
 ### Screenshots
-![Spyder IDE Window](resources/screenshot 1.jpg)
-![Survival Function by Risk Group plot](resources/screenshot 2.jpg)
-![cph model summary print](resources/screenshot 3.jpg)
-![Churn by Tenure plot](resources/screenshot 4.jpg)
-![Streamlit dashboard homepage](resources/screenshot 5.jpg)
-![Streamlit dashboard Global Insights](resources/screenshot 6.jpg)
-![Predicted Customer Lifetime on Streamlit dashboard](resources/screenshot 7.jpg)
+![Churn by Contract Type Count Plot](Project Resources/01_curn_distribution_by_contract_type.png)
+![Churn by Tenure Histogram](Project Resources/02_churn_distribution_by_tenure.png)
+![Global KM Survival Curve](Project Resources/03_global_KM_survival_curve.png)
+![Survival Curves by Contract Type Plot](Project Resources/04_survival_curves_by_contract_type.png)
+![Survival Function by Risk Group Plot](Project Resources/05_survival_function_by_risk_group.png)
+![Streamlit Dashboard: Model Summary Table and Top Risk Drivers](Project Resources/01_streamlit_dash_homescreen.png)
+![Streamlit Dashboard: Global Insights Plots](Project resources/02_streamlit_dash_global_insights)
+![Streamlit Dashboard: Customer Prediction (Blank)](Project Resources/03_streamlit_dash_customer_pred_blank.png)
+![Streamlit Dashboard: Customer Prediction Result](Project Resources/04_streamlit_dash_customer_pred.png)
 
 ---
 
