@@ -16,3 +16,12 @@ models/
 
 # macOS
 .DS_Store
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore large local files (optional)
+Project_Resources/*.mp4
+Project_Resources/*.zip
+
