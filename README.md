@@ -162,9 +162,9 @@ Download pretrained model from Releases (v1.0)
 
 ---
 
-```markdown
 ## 👤 Author
 **Aniket Walunj**  
 Data Science Enthusiast | Machine Learning & Survival Analysis Project 
 [LinkedIn](https://www.linkedin.com/in/aniket-walunj-93a07864/)
 [GitHub](https://github.com/walunjaniket)
+```markdown
