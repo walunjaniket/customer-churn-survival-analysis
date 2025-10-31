@@ -129,7 +129,7 @@ Built a **Streamlit web application** that:
 ### Demo Video
 
 A short walkthrough of the Streamlit dashboard is available in
-Project Resources/screen_recording_streamlit_dash.mp4
+Project_Resources/screen_recording_streamlit_dash.mp4
 
 ---
 
