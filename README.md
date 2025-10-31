@@ -120,7 +120,7 @@ Built a **Streamlit web application** that:
 ![Survival Curves by Contract Type Plot](Project Resources/04_survival_curves_by_contract_type.png)
 ![Survival Function by Risk Group Plot](Project Resources/05_survival_function_by_risk_group.png)
 ![Streamlit Dashboard: Model Summary Table and Top Risk Drivers](Project Resources/01_streamlit_dash_homescreen.png)
-![Streamlit Dashboard: Global Insights Plots](Project resources/02_streamlit_dash_global_insights)
+![Streamlit Dashboard: Global Insights Plots](Project Resources/02_streamlit_dash_global_insights)
 ![Streamlit Dashboard: Customer Prediction (Blank)](Project Resources/03_streamlit_dash_customer_pred_blank.png)
 ![Streamlit Dashboard: Customer Prediction Result](Project Resources/04_streamlit_dash_customer_pred.png)
 
