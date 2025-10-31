@@ -152,7 +152,7 @@ Project_Resources/screen_recording_streamlit_dash.mp4
 
 5. Run Project 2 - Customer Churn Survival Analysis.ipynb to reproduce the results.
 
-6. (Optional) Launch the interactive dashboard from the last notebook cell.
+6. (Optional) Launch the interactive dashboard from a separate Streamlit Dashboard file from the root directory of this repo.
    ```bash
    git clone https://github.com/walunjaniket/customer-churn-survival-analysis.git
 
