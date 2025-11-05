@@ -1,6 +1,10 @@
 # customer-churn-survival-analysis
 Customer Churn Survival Analysis using Cox Proportional Hazards model and Kaplan-Meier curves
 
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1.7+-orange.svg)](https://xgboost.ai/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 Download pretrained model from Releases (v1.0)
@@ -167,4 +171,3 @@ Download pretrained model from Releases (v1.0)
 Data Science Enthusiast | Machine Learning & Survival Analysis Project 
 [LinkedIn](https://www.linkedin.com/in/aniket-walunj-93a07864/)
 [GitHub](https://github.com/walunjaniket)
-```markdown
